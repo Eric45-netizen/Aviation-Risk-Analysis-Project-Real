@@ -69,6 +69,7 @@ A heatmap was generated to show the correlation between different injury types (
 
 This analysis provides valuable insights into aviation risks and helps stakeholders make informed decisions regarding aircraft acquisition and safety measures. By focusing on lower-risk aircraft and investing in safety technologies, the company can significantly reduce operational risks in aviation.
 
+https://public.tableau.com/app/profile/eric.miriti/viz/EricMuthomi/Dashboard2
 ---
 
 ## Files in the Repository
